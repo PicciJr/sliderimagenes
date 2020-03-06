@@ -1,3 +1,7 @@
+Uso de:
+-Binding de datos
+-En src de la imagen se tiene que indicar el require porque si no no interpola bien la ruta completa de la imagen
+
 # sliderimagenes
 
 ## Project setup
